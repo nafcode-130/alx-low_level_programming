@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "ketema.h"
 /**
  * main - prints the string "ketema" from a character array.
  * Return: 0 on success.
